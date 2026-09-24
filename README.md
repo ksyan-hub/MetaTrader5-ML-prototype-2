@@ -27,8 +27,6 @@
 - Windows(MetaTrader5がWindowsの専用のため)
 - MetaTrader5のアカウントか口座が必要
 - 必要パッケージ: pandas, xgboost, MetaTrader5, pytz
-
-## 実行結果
   
 ## 実行結果
 
